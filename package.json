@@ -1,6 +1,6 @@
 {
   "name": "degulp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Test to see if Gulp fits our workflow.",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   ],
   "author": "ACJ",
   "license": "UNLICENSED",
+  "private": true,
   "bugs": {
     "url": "https://github.com/deidee/degulp/issues"
   },
