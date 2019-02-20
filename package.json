@@ -1,6 +1,6 @@
 {
   "name": "degulp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test to see if Gulp fits our workflow.",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/deidee/degulp#readme",
   "dependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
   }
 }
