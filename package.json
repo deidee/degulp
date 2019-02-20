@@ -1,0 +1,26 @@
+{
+  "name": "degulp",
+  "version": "0.0.1",
+  "description": "Test to see if Gulp fits our workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deidee/degulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "test"
+  ],
+  "author": "ACJ",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/deidee/degulp/issues"
+  },
+  "homepage": "https://github.com/deidee/degulp#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
